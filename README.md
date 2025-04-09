@@ -1,5 +1,6 @@
-<div align="center">
+
 ![00011-3241185752x](https://github.com/user-attachments/assets/0d424bc5-70de-4ade-9aae-647952b92ec0)
+
 # 🧠 Hello, World — I’m Aaron Archer 👋  
 ### 🌌 Futurist | 🤖 AI Explorer | 🐍 Python Learner  
 
@@ -48,4 +49,3 @@ I'm diving deep into the world of **artificial intelligence**, with a focus on *
 
 [straightroadtosuccess](https://github.com/straightroadtosuccess)
 
-</div>
