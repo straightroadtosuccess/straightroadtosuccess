@@ -4,7 +4,7 @@
 # 🧠 Hello, World — I’m Aaron Archer 👋  
 ### 🌌 Futurist | 🤖 AI Explorer | 🐍 Python Learner  
 
-> *"The future is already here — it's just not evenly distributed."* – William Gibson
+> 🔭 *Always exploring, always building. AI isn’t the future — it’s the present. Let’s shape it together.*
 
 ---
 
@@ -49,8 +49,6 @@ I'm diving deep into the world of **artificial intelligence**, with a focus on *
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)]([[https://www.linkedin.com/in/your-link/](https://www.linkedin.com/in/aaronaarcher)])  
 
 ---
-
-🔭 *Always exploring, always building. AI isn’t the future — it’s the present. Let’s shape it together.*
 
 [straightroadtosuccess](https://github.com/straightroadtosuccess)
 
