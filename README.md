@@ -1,4 +1,4 @@
-# 🧠 Hello, World — I’m [Your Name] 👋  
+# 🧠 Hello, World — I’m Aaron Archer 👋  
 ### 🌌 Futurist | 🤖 AI Explorer | 🐍 Python Learner  
 
 > *"The future is already here — it's just not evenly distributed."* – William Gibson
@@ -21,9 +21,9 @@ I'm diving deep into the world of **artificial intelligence**, with a focus on *
 ---
 
 ## 🛠️ Languages & Tools  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
-![Stable Diffusion](https://img.shields.io/badge/-StableDiffusion-FF4081?style=flat&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-FF4081?style=for-the-badge&logo=openai&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -32,7 +32,7 @@ I'm diving deep into the world of **artificial intelligence**, with a focus on *
 ---
 
 ## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=straightroadtosuccess&show_icons=true&theme=radical)
 
 ---
 
