@@ -40,7 +40,9 @@ I'm diving deep into the world of **artificial intelligence**, with a focus on *
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=straightroadtosuccess&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=straightroadtosuccess&layout=compact&theme=radical)
+
 </div>
+
 ---
 
 ## 🌐 Let's Connect  
