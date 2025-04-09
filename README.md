@@ -1,3 +1,4 @@
+<center>
 # 🧠 Hello, World — I’m Aaron Archer 👋  
 ### 🌌 Futurist | 🤖 AI Explorer | 🐍 Python Learner  
 
@@ -34,14 +35,15 @@ I'm diving deep into the world of **artificial intelligence**, with a focus on *
 ## 📈 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=straightroadtosuccess&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=straightroadtosuccess&layout=compact&theme=tokyonight)
 ---
 
 ## 🌐 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/your-link/](https://www.linkedin.com/in/aaronaarcher/))  
-[![Website](https://img.shields.io/badge/-Website-black?style=flat&logo=firefox)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)]([[https://www.linkedin.com/in/your-link/](https://www.linkedin.com/in/aaronaarcher)])  
 
 ---
 
 🔭 *Always exploring, always building. AI isn’t the future — it’s the present. Let’s shape it together.*
 
-straightroadtosuccess
+[straightroadtosuccess](https://github.com/straightroadtosuccess)
+</center>
