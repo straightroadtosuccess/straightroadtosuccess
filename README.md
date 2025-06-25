@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/0d424bc5-70de-4ade-9aae-647952b92ec0" width="75%">
+<img src="https://github.com/user-attachments/assets/578d111c-6b54-457e-9187-7ca7299dc235" width="75%">
 
 # 🧠 Hello, World — I’m Aaron Archer 👋  
 
