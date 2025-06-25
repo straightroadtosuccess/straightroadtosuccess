@@ -1,7 +1,8 @@
 
-![00011-3241185752x](https://github.com/user-attachments/assets/0d424bc5-70de-4ade-9aae-647952b92ec0)
+![00029-1085092278](https://github.com/user-attachments/assets/92830ada-321a-4096-a49e-e45a411645d2)
 
 # 🧠 Hello, World — I’m Aaron Archer 👋  
+
 ### 🌌 Futurist | 🤖 AI Explorer | 🐍 Python Learner  
 
 > 🔭 *Always exploring, always building. AI isn’t the future — it’s the present. Let’s shape it together.*
