@@ -1,7 +1,5 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/578d111c-6b54-457e-9187-7ca7299dc235" width="70%">
-  <img width="2112" height="1632" alt="CS50x" src="https://github.com/user-attachments/assets/5c2a6c30-3835-490c-9fd7-f096f97f66e9" />
-  <img width="2112" height="1632" alt="CS50P" src="https://github.com/user-attachments/assets/e4ef60b6-4e28-4c6d-8882-f3d0d0af0d5f" />
 </div>
 
 # 🧠 Hello, World — I’m Aaron Archer 👋  
@@ -25,6 +23,11 @@ I'm diving deep into the world of **artificial intelligence**, with a focus on *
 - 🤝 Experimenting with AI-assisted tools and productivity workflows  
 - 📊 Visualizing data in creative ways
 
+---
+<div align="center">
+  <img width="2112" height="1632" alt="CS50x" src="https://github.com/user-attachments/assets/5c2a6c30-3835-490c-9fd7-f096f97f66e9" />
+  <img width="2112" height="1632" alt="CS50P" src="https://github.com/user-attachments/assets/e4ef60b6-4e28-4c6d-8882-f3d0d0af0d5f" />
+</div>
 ---
 
 ## 🛠️ Languages & Tools  
